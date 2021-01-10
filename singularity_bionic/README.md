@@ -1,4 +1,4 @@
-#Vagrant machine for building singularity containers
+# Vagrant machine for building singularity containers
 
 ---
 
